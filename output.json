@@ -1,0 +1,452 @@
+[
+  {
+    "title": "12 Rarely Used JavaScript Web APIs that Will Boost Your Website to THE MOON 🚀",
+    "author": "Eluda",
+    "date": "2022-07-23T07:43:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--dpY-ed5a--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/833086/70bc7202-cda0-4493-9c55-1796fb35454e.png",
+    "user_page_url": "https://dev.to/eludadev",
+    "tags": ["javascript", "webdev", "beginners", "productivity"],
+    "page_url": "https://dev.to/eludadev/12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1"
+  },
+  {
+    "title": "Clean Architecture: Applying with React",
+    "author": "Rubem Vasconcelos",
+    "date": "2022-07-24T12:54:55Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--I8AXpLQX--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/536627/b62ecd76-87a9-458a-91cc-999ef69dc592.png",
+    "user_page_url": "https://dev.to/rubemfsv",
+    "tags": ["react", "typescript", "cleanarchitecture", "webdev"],
+    "page_url": "https://dev.to/rubemfsv/clean-architecture-applying-with-react-40h6"
+  },
+  {
+    "title": "The Ultimate List of CSS Code Generators For Web Development",
+    "author": "Julia Furst Morgado",
+    "date": "2022-07-25T22:57:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGev4D8X--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/819557/5eefb833-0956-4802-a10a-d60b4b418cad.jpg",
+    "user_page_url": "https://dev.to/juliafmorgado",
+    "tags": ["css", "webdev", "programming", "productivity"],
+    "page_url": "https://dev.to/juliafmorgado/the-ultimate-list-of-css-code-generators-for-web-development-4d1l"
+  },
+  {
+    "title": "Grid vs Flex: Where to use which? 🤔",
+    "author": "Tapajyoti Bose",
+    "date": "2022-07-24T06:11:50Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--bzrfhCEs--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/530414/941751d8-06b8-41bd-9de9-6ea056b7199f.png",
+    "user_page_url": "https://dev.to/ruppysuppy",
+    "tags": ["css", "webdev", "html", "beginners"],
+    "page_url": "https://dev.to/ruppysuppy/grid-vs-flex-where-to-use-which-3g0p"
+  },
+  {
+    "title": "JavaScript object destructuring tips",
+    "author": "Chris Bongers",
+    "date": "2022-07-24T06:17:53Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--WRx_peXg--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/370165/083a25f4-e79b-42c4-9e5f-0332b834ca5e.png",
+    "user_page_url": "https://dev.to/dailydevtips1",
+    "tags": ["javascript", "webdev", "beginners"],
+    "page_url": "https://dev.to/dailydevtips1/javascript-object-destructuring-tips-154c"
+  },
+  {
+    "title": "Let's build and deploy a full stack MERN web application",
+    "author": "Rakesh Potnuru",
+    "date": "2022-07-24T11:55:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--oVXvXP98--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/694293/7329b1eb-842d-4c9d-a48d-2a26a37b2ec0.png",
+    "user_page_url": "https://dev.to/itsrakesh",
+    "tags": ["webdev", "beginners", "javascript", "tutorial"],
+    "page_url": "https://dev.to/itsrakesh/lets-build-and-deploy-a-full-stack-mern-web-application-1p5"
+  },
+  {
+    "title": "React.js Interview - technical submission and detailed feedback",
+    "author": "Rajesh Royal",
+    "date": "2022-07-25T17:50:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--NktwbnZv--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/356106/b9af8960-6d35-454f-aaf7-a4a0e1bde3e4.jpg",
+    "user_page_url": "https://dev.to/rajeshroyal",
+    "tags": ["help", "javascript", "react", "typescript"],
+    "page_url": "https://dev.to/rajeshroyal/reactjs-interview-technical-submission-and-detailed-feedback-2pk7"
+  },
+  {
+    "title": "The History of JavaScript",
+    "author": "Archit Sharma",
+    "date": "2022-07-23T05:50:06Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--FFw2hZyr--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/676134/54212bd4-07df-4510-a9f4-e78cd52194a5.jpg",
+    "user_page_url": "https://dev.to/iarchitsharma",
+    "tags": ["javascript", "webdev", "programming", "web3"],
+    "page_url": "https://dev.to/iarchitsharma/the-history-of-javascript-5e98"
+  },
+  {
+    "title": "Top 25 Tips for Building an EXTREMELY FAST Website!!!",
+    "author": "Dustin Brett",
+    "date": "2022-07-25T05:39:25Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--vUjjDx0I--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/210026/628bd8a1-1d1c-434c-aabf-516fc241d12e.jpg",
+    "user_page_url": "https://dev.to/dustinbrett",
+    "tags": ["webdev", "performance", "javascript", "html"],
+    "page_url": "https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf"
+  },
+  {
+    "title": "Help fight spam in our community! 🙌",
+    "author": "Michael Tharrington",
+    "date": "2022-07-26T21:11:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--fySxNi_p--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/38578/2b719be8-68c7-4456-bd5c-42f21c3bd6a8.png",
+    "user_page_url": "https://dev.to/michaeltharrington",
+    "tags": ["meta", "community", "spam"],
+    "page_url": "https://dev.to/devteam/help-fight-spam-in-our-community-1ngb"
+  },
+  {
+    "title": "Finished my NextJS tailwindcss portfolio!! 💎",
+    "author": "Brayden W ⚡️",
+    "date": "2022-07-23T17:27:57Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--HkSqfDCl--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/378187/5641f3d8-ee53-4fc1-9133-494e186b666e.jpg",
+    "user_page_url": "https://dev.to/braydentw",
+    "tags": ["react", "nextjs", "tailwindcss", "portfolio"],
+    "page_url": "https://dev.to/braydentw/finished-my-nextjs-tailwindcss-portfolio-2a60"
+  },
+  {
+    "title": "I quit my business to start an open-source dev tool",
+    "author": "Kirill Rogovoy",
+    "date": "2022-07-25T13:16:23Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--KNDVRQL3--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56696/a3c453ad-76c9-475c-b007-6d5430f77e53.jpeg",
+    "user_page_url": "https://dev.to/kirillrogovoy",
+    "tags": ["opensource", "indiehackers", "tailwindcss", "react"],
+    "page_url": "https://dev.to/kirillrogovoy/i-quit-my-business-to-start-an-open-source-dev-tool-7c4"
+  },
+  {
+    "title": "System Color Theme Check In JavaScript",
+    "author": "Bibek",
+    "date": "2022-07-23T05:23:27Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--dmJ6pNHm--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/618021/f150985f-3e4f-461f-bfa2-f12bf5659db2.jpg",
+    "user_page_url": "https://dev.to/bibekkakati",
+    "tags": ["webdev", "javascript", "css", "design"],
+    "page_url": "https://dev.to/bibekkakati/system-color-theme-check-in-javascript-1la9"
+  },
+  {
+    "title": "Big O Notation",
+    "author": "Onyeanuna prince",
+    "date": "2022-07-24T00:46:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--SD5lOnK2--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/891339/53b23752-37b5-48b5-ba22-a934b54bb4ab.jpg",
+    "user_page_url": "https://dev.to/aahil13",
+    "tags": ["computerscience"],
+    "page_url": "https://dev.to/aahil13/big-o-notation-56lg"
+  },
+  {
+    "title": "Top 9 sites for staying up to date as a software developer",
+    "author": "DevToolz",
+    "date": "2022-07-27T07:46:36Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--WkXJLkZO--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/874213/069f468f-73b8-4014-87f6-1e2ee9223cdf.png",
+    "user_page_url": "https://dev.to/devtoolzz",
+    "tags": ["watercooler", "productivity", "webdev"],
+    "page_url": "https://dev.to/devtoolzz/top-9-sites-for-staying-up-to-date-as-a-software-developer-3c7o"
+  },
+  {
+    "title": "How To Create A Timer With React",
+    "author": "𝕁𝕦𝕝𝕚𝕒 👩🏻‍💻",
+    "date": "2022-07-27T10:29:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--byn2Hce---/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/384066/a2d0241b-c94a-4cd9-a4c4-331753c9e700.png",
+    "user_page_url": "https://dev.to/yuridevat",
+    "tags": ["react", "tutorial", "beginners"],
+    "page_url": "https://dev.to/yuridevat/how-to-create-a-timer-with-react-7b9"
+  },
+  {
+    "title": "How to Send a Tweet with GitHub Copilot",
+    "author": "Rizèl Scarlett",
+    "date": "2022-07-26T15:50:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--o-iBWt7V--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/302741/1c09aafd-6e00-4f49-b80c-5bf0eb190314.jpg",
+    "user_page_url": "https://dev.to/blackgirlbytes",
+    "tags": ["github", "api", "tutorial", "productivity"],
+    "page_url": "https://dev.to/github/how-to-send-a-tweet-with-github-copilot-4ih7"
+  },
+  {
+    "title": "Everyone Can Do DevRel (But Should They?)",
+    "author": "Aditya Oberai",
+    "date": "2022-07-27T12:54:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--qKmGozKa--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/243926/b5d7d157-a9a4-420e-b0ba-beaa4e843d7e.jpg",
+    "user_page_url": "https://dev.to/adityaoberai",
+    "tags": ["devrel", "community", "beginners", "career"],
+    "page_url": "https://dev.to/appwrite/everyone-can-do-devrel-but-should-they-2jdl"
+  },
+  {
+    "title": "Stop Using IDs and Classes in Every HTML Element!",
+    "author": "Puput Tallulah",
+    "date": "2022-07-24T17:15:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--98tGdA_i--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/889360/bf31eae7-25c5-49e0-9fc0-a580d3ec814c.jpg",
+    "user_page_url": "https://dev.to/puputtallulah",
+    "tags": ["css", "beginners", "webdev", "html"],
+    "page_url": "https://dev.to/puputtallulah/stop-using-ids-and-classes-in-every-html-element-3k2c"
+  },
+  {
+    "title": "Why I'm Learning Typescript",
+    "author": "Anna Baker",
+    "date": "2022-07-27T12:31:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s---DLFhC0C--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/890866/661d2d4f-74ed-4cb1-b53b-670432c53ef6.png",
+    "user_page_url": "https://dev.to/annabaker",
+    "tags": ["javascript", "typescript", "webdev", "beginners"],
+    "page_url": "https://dev.to/annabaker/why-im-learning-typescript-2gjh"
+  },
+  {
+    "title": "Meme Monday 😍",
+    "author": "Ben Halpern",
+    "date": "2022-07-25T12:31:46Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ea1OGrCb--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/1/f451a206-11c8-4e3d-8936-143d0a7e65bb.png",
+    "user_page_url": "https://dev.to/ben",
+    "tags": ["discuss", "watercooler", "jokes"],
+    "page_url": "https://dev.to/ben/meme-monday-3m4"
+  },
+  {
+    "title": "Create a notifications system using in-app (bell icon) and emails",
+    "author": "nevo-david",
+    "date": "2022-07-25T10:34:36Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--ViZheHPS--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/820341/e194b487-83e7-47d8-b388-eeb4645aaad0.png",
+    "user_page_url": "https://dev.to/nevodavid",
+    "tags": ["javascript", "programming", "node", "opensource"],
+    "page_url": "https://dev.to/novu/create-a-notifications-system-using-in-app-bell-icon-and-emails-5c15"
+  },
+  {
+    "title": "Golang Writing memory efficient and CPU optimized Go Structs",
+    "author": "Satyajit Roy",
+    "date": "2022-07-26T03:26:04Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--sRb2Bnsr--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/889682/17233aa2-ba90-4ebc-85be-e9e07e3f5bb1.jpeg",
+    "user_page_url": "https://dev.to/deadlock",
+    "tags": ["go", "programming"],
+    "page_url": "https://dev.to/deadlock/golang-writing-memory-efficient-and-cpu-optimized-go-structs-2ick"
+  },
+  {
+    "title": "How to Build a Digital Marketing Agency Website Using Html CSS JavaScript",
+    "author": "Sadee",
+    "date": "2022-07-23T13:29:25Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiZhfIf4--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/647690/7201eed0-e45f-462a-b581-5ee15a3c19b9.jpg",
+    "user_page_url": "https://dev.to/codewithsadee",
+    "tags": ["css", "javascript", "beginners", "tutorial"],
+    "page_url": "https://dev.to/codewithsadee/how-to-build-a-digital-marketing-agency-website-using-html-css-javascript-262l"
+  },
+  {
+    "title": "How to Automate REST API Security Testing",
+    "author": "Intesar Shannan Mohammed",
+    "date": "2022-07-26T17:48:07Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--vdl0P6Zn--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/832409/ade5913b-6b9b-45eb-85ff-6233c96b12f3.jpeg",
+    "user_page_url": "https://dev.to/intesar",
+    "tags": ["api", "security", "testing"],
+    "page_url": "https://dev.to/intesar/how-to-automate-rest-api-security-testing-4lh4"
+  },
+  {
+    "title": "How to Build an eCommerce Website Using HTML CSS JavaScript",
+    "author": "Sadee",
+    "date": "2022-07-27T12:58:16Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiZhfIf4--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/647690/7201eed0-e45f-462a-b581-5ee15a3c19b9.jpg",
+    "user_page_url": "https://dev.to/codewithsadee",
+    "tags": ["css", "javascript", "beginners", "tutorial"],
+    "page_url": "https://dev.to/codewithsadee/how-to-build-an-ecommerce-website-using-html-css-javascript-1h6d"
+  },
+  {
+    "title": "15 Best Terminal Commands That You Should Know",
+    "author": "simc dev",
+    "date": "2022-07-26T04:32:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--g02BZ5co--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/887372/f5e860c6-687e-48cb-980c-61f87db84023.png",
+    "user_page_url": "https://dev.to/devsimc",
+    "tags": ["php", "programming", "webdev", "beginners"],
+    "page_url": "https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-47m7"
+  },
+  {
+    "title": "Publish your own Docker Images with GitHub Actions",
+    "author": "Fabio",
+    "date": "2022-07-24T09:41:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--TjGjDYI8--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/871638/ba3db519-a072-48df-99b0-bf0722903331.jpg",
+    "user_page_url": "https://dev.to/snakepy",
+    "tags": ["github", "docker", "webdev", "devops"],
+    "page_url": "https://dev.to/snakepy/use-your-own-docker-images-with-a-github-workflow-5gj6"
+  },
+  {
+    "title": "3 Ways to Help Developers Thrive",
+    "author": "Andrew Baisden",
+    "date": "2022-07-27T12:46:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--n393t-_I--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/333889/dd8bedde-89c4-45a0-9620-627131cf32de.png",
+    "user_page_url": "https://dev.to/andrewbaisden",
+    "tags": ["watercooler", "productivity", "career", "writing"],
+    "page_url": "https://dev.to/andrewbaisden/3-ways-to-help-developers-thrive-1ele"
+  },
+  {
+    "title": "8-Bit Learn to Code Platform!",
+    "author": "Sonny Li",
+    "date": "2022-07-28T16:05:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--uvAC9NIU--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/123215/cdeb62f8-2457-4866-acd8-125b091d180e.jpg",
+    "user_page_url": "https://dev.to/sonnynomnom",
+    "tags": ["news", "beginners", "tutorial", "python"],
+    "page_url": "https://dev.to/codedex/8-bit-learn-to-code-platform-20cl"
+  },
+  {
+    "title": "How to create your personal brand?",
+    "author": "MD Sarfaraj",
+    "date": "2022-07-23T11:35:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--AEg7paP5--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/849223/f9767c32-e7a4-4e7c-aef3-eaa709216aab.jpeg",
+    "user_page_url": "https://dev.to/yourmdsarfaraj",
+    "tags": ["discuss", "productivity", "career", "motivation"],
+    "page_url": "https://dev.to/this-is-learning/how-to-create-your-personal-brand-1mp0"
+  },
+  {
+    "title": "Masking and coloring product images using CSS and SVG",
+    "author": "Mads Stoumann",
+    "date": "2022-07-24T16:45:50Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--hCHv9XnP--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/515396/61d796b8-f5ce-468b-8cb5-808b2bbb9279.jpeg",
+    "user_page_url": "https://dev.to/madsstoumann",
+    "tags": ["css", "svg", "tutorial", "webdev"],
+    "page_url": "https://dev.to/madsstoumann/masking-and-coloring-product-images-using-css-and-svg-2eil"
+  },
+  {
+    "title": "8 Things I've Learned in 12 Months on the Job",
+    "author": "Ash",
+    "date": "2022-07-26T18:26:40Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--wnjBxDwS--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/535482/146b8e52-5722-49e0-b0fa-eba1c302e29f.jpg",
+    "user_page_url": "https://dev.to/ash_bergs",
+    "tags": ["career", "productivity", "writing"],
+    "page_url": "https://dev.to/ash_bergs/8-things-ive-learned-in-12-months-on-the-job-5bkm"
+  },
+  {
+    "title": "Top 7 Featured DEV Posts from the Past Week",
+    "author": "Gracie Gregory (she/her)",
+    "date": "2022-07-26T21:48:48Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--YTDghB6M--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/342975/98b7a8ed-aa91-48a3-bcc0-ebe2c13b5893.png",
+    "user_page_url": "https://dev.to/graciegregory",
+    "tags": ["icymi"],
+    "page_url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2nie"
+  },
+  {
+    "title": "Exploring the NextJS bundle analyzer",
+    "author": "Chris Bongers",
+    "date": "2022-07-25T06:54:52Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--WRx_peXg--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/370165/083a25f4-e79b-42c4-9e5f-0332b834ca5e.png",
+    "user_page_url": "https://dev.to/dailydevtips1",
+    "tags": ["react", "nextjs"],
+    "page_url": "https://dev.to/dailydevtips1/exploring-the-nextjs-bundle-analyzer-33l"
+  },
+  {
+    "title": "🍂Open-source Headless CMS Review: Strapi, Directus, and Payload",
+    "author": "Hung Vu",
+    "date": "2022-07-26T16:19:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--EY_ygsDj--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/807797/b11838ae-c033-44ae-9052-275f91dfa16d.png",
+    "user_page_url": "https://dev.to/hunghvu",
+    "tags": ["webdev", "javascript", "beginners", "opensource"],
+    "page_url": "https://dev.to/hunghvu/open-source-headless-cms-review-strapi-directus-and-payload-2p79"
+  },
+  {
+    "title": "Appwrite Loves Open Source: Why I Chose to Support Flow-Launcher",
+    "author": "Arman",
+    "date": "2022-07-25T08:37:25Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--m5MPoHT7--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/843626/744f1aa5-8d07-4442-b4cb-a4dab9fb6249.jpeg",
+    "user_page_url": "https://dev.to/armannik",
+    "tags": ["opensource", "appwrite"],
+    "page_url": "https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-support-flow-launcher-54pj"
+  },
+  {
+    "title": "7 Daily Hacks For Programmers To Make Coding Skills Faster",
+    "author": "simc dev",
+    "date": "2022-07-28T04:42:18Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--g02BZ5co--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/887372/f5e860c6-687e-48cb-980c-61f87db84023.png",
+    "user_page_url": "https://dev.to/devsimc",
+    "tags": ["javascript", "webdev", "beginners", "programming"],
+    "page_url": "https://dev.to/devsimc/7-daily-hacks-for-programmers-to-make-coding-skills-faster-a68"
+  },
+  {
+    "title": "Your Old Laptop Is Your New Database Server",
+    "author": "Alejandro Duarte",
+    "date": "2022-07-26T09:03:38Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uo-dhxsc--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/473376/dc3a2dfd-0d2e-42b5-997f-ccf973d49199.jpg",
+    "user_page_url": "https://dev.to/alejandro_du",
+    "tags": ["mariadb", "database", "sql", "dba"],
+    "page_url": "https://dev.to/alejandro_du/your-old-laptop-is-your-new-database-server-4fca"
+  },
+  {
+    "title": "Improve your product notifications with Digest, Separate Feeds, and Notification Action Buttons",
+    "author": "Omer Ben Ami",
+    "date": "2022-07-27T14:03:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--DtsiYohj--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/870512/1b368952-1f86-4ebc-8427-fc73871635cc.jpeg",
+    "user_page_url": "https://dev.to/oba2311",
+    "tags": ["discuss", "javascript", "webdev", "react"],
+    "page_url": "https://dev.to/novu/improve-your-product-notifications-with-digest-separate-feeds-and-feeds-action-buttons-1l6k"
+  },
+  {
+    "title": "Understanding Git and Github",
+    "author": "Zeeshan Safdar",
+    "date": "2022-07-23T08:04:08Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--hFdLLt0y--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/544692/bb018f12-0981-4faa-ac64-67e70e2fbb4d.jpg",
+    "user_page_url": "https://dev.to/zeeshansafdar48",
+    "tags": ["github", "git", "beginners", "programming"],
+    "page_url": "https://dev.to/zeeshansafdar48/understanding-git-and-github-c9b"
+  },
+  {
+    "title": "What was your win this week?",
+    "author": "Gracie Gregory (she/her)",
+    "date": "2022-07-23T07:19:42Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--YTDghB6M--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/342975/98b7a8ed-aa91-48a3-bcc0-ebe2c13b5893.png",
+    "user_page_url": "https://dev.to/graciegregory",
+    "tags": ["discuss", "weeklyretro"],
+    "page_url": "https://dev.to/devteam/what-was-your-win-this-week-296m"
+  },
+  {
+    "title": "Magento alternative: How it compares with Medusa, a JavaScript-based ecommerce platform",
+    "author": "Shahed Nasser",
+    "date": "2022-07-28T11:36:04Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--iPKuTay6--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/507096/4c4fb7e8-95c7-4093-8ebd-2d8c92bec743.jpg",
+    "user_page_url": "https://dev.to/shahednasser",
+    "tags": ["programming", "webdev", "opensource", "javascript"],
+    "page_url": "https://dev.to/medusajs/magento-alternative-how-it-compares-with-medusa-a-javascript-based-ecommerce-platform-4m4j"
+  },
+  {
+    "title": "3 ways you could improve your focus/mood at work 💻",
+    "author": "Adheeban Manoharan",
+    "date": "2022-07-24T15:59:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--c0k3CBB---/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/843434/51990104-120a-4a62-b378-a4682a2528ef.png",
+    "user_page_url": "https://dev.to/iamadhee",
+    "tags": ["discuss", "productivity", "career", "watercooler"],
+    "page_url": "https://dev.to/iamadhee/3-ways-to-improve-your-focusmood-at-work-e7k"
+  },
+  {
+    "title": "My Course on Angular Getting Started",
+    "author": "Santosh Yadav",
+    "date": "2022-07-27T18:17:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--T1abxokO--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/175071/543e8d00-625a-4e73-b0dc-3e2bcadf6f26.jpeg",
+    "user_page_url": "https://dev.to/santoshyadav198613",
+    "tags": ["angular", "learning", "webdev", "course"],
+    "page_url": "https://dev.to/santoshyadav198613/my-course-on-angular-getting-started-3jec"
+  },
+  {
+    "title": "How to Build Crypto Website Using HTML CSS JavaScript",
+    "author": "Sadee",
+    "date": "2022-07-28T12:58:22Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiZhfIf4--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/647690/7201eed0-e45f-462a-b581-5ee15a3c19b9.jpg",
+    "user_page_url": "https://dev.to/codewithsadee",
+    "tags": ["css", "javascript", "beginners", "tutorial"],
+    "page_url": "https://dev.to/codewithsadee/how-to-build-crypto-website-using-html-css-javascript-4o7g"
+  },
+  {
+    "title": "Appwrite Community Report #15",
+    "author": "haimantika mitra",
+    "date": "2022-07-22T14:06:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--YsG1tQye--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/401142/afaae4c7-9e8a-4d9c-9b9e-c9ef3d4b5a0d.jpg",
+    "user_page_url": "https://dev.to/haimantika",
+    "tags": [],
+    "page_url": "https://dev.to/appwrite/appwrite-community-report-15-4j0k"
+  },
+  {
+    "title": "Building a CRUD app with Material UI and Strapi",
+    "author": "Necati Özmen",
+    "date": "2022-07-27T14:43:00Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--V6MFbR2y--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/196826/c4f5f26f-1f46-4633-9d5a-0e1a1fb39a95.jpeg",
+    "user_page_url": "https://dev.to/necatiozmen",
+    "tags": ["javascript", "webdev", "materialui", "tutorial"],
+    "page_url": "https://dev.to/pankod/building-a-crud-app-with-material-ui-and-strapi-5gcn"
+  },
+  {
+    "title": "150+ Typescript one-liners [code snippets].",
+    "author": "Christian Prado Ciokler",
+    "date": "2022-07-24T04:51:04Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--AcZ5OepK--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/706852/2bed8e4c-4027-475c-8f23-b27966585847.png",
+    "user_page_url": "https://dev.to/chrisciokler",
+    "tags": ["javascript", "typescript", "productivity"],
+    "page_url": "https://dev.to/chrisciokler/150-typescript-one-liners-code-snippets-4l51"
+  },
+  {
+    "title": "Code is a craft, not a competition – and why it matters.",
+    "author": "Matt Van Itallie",
+    "date": "2022-07-24T00:02:15Z",
+    "profile_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--lzLbNn5p--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/843099/2ee5b1cd-4ce4-4dcf-b172-36c315274151.jpg",
+    "user_page_url": "https://dev.to/vanitallie_matt",
+    "tags": [],
+    "page_url": "https://dev.to/this-is-learning/code-is-a-craft-not-a-competition-and-why-it-matters-f3o"
+  }
+]
