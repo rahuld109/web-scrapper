@@ -5,7 +5,7 @@ Built a simple web scrapping program using go with colly Framework
 ## Features
 
 - Web Scrapping 
-- Made with go 
+- Developed with go 
 - Saving json locally
 
 
